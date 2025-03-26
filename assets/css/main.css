@@ -27,7 +27,7 @@
 }
 
 .header__navbar-item--strong{
-    font-weight: 500;
+    font-weight: 400;
 }
 
 .header__navbar-item--separate::after{
